@@ -1,0 +1,22 @@
+{
+  "name": "comp229-m2021-week01d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameekim/COMP229-M2021-Week01d.git"
+  },
+  "author": "Jamee Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameekim/COMP229-M2021-Week01d/issues"
+  },
+  "homepage": "https://github.com/jameekim/COMP229-M2021-Week01d#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
